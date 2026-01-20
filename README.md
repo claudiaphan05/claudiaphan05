@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Claudia and I am a current junior at Texas A&M University. I am interested in learning more about embedded systems and am currently working on creating games. I enjoy ripping Pokemon card packs and researching keyboards in my free time and am excited to see what projects come up in the future.
 <!--
 **claudiaphan05/claudiaphan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
